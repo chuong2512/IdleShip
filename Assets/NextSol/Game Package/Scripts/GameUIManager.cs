@@ -4,6 +4,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 using DG.Tweening;
+using Jackal;
 using UnityEngine.EventSystems;
 
 public class GameUIManager : MonoBehaviour
