@@ -16,27 +16,27 @@ MonoBehaviour:
   - idship: 0
     ShipModel: {fileID: 7188283186245256987, guid: d9176e31717bb3c48a0e27523c41316d,
       type: 3}
-    numFinishSanGoLow: 69
-    numFinishSanGoHigh: 90
-    numFinishVoTauLow: 131
-    numFinishVoTauHigh: 159
-    numFinishSanTau: 170
+    numFinishSanGoLow: 2
+    numFinishSanGoHigh: 3
+    numFinishVoTauLow: 5
+    numFinishVoTauHigh: 6
+    numFinishSanTau: 8
     typeUnlock: 1
   - idship: 1
-    ShipModel: {fileID: 6932323298095755299, guid: 18cb28f31273acc46aa521c9cd71d303,
+    ShipModel: {fileID: 7188283186245256987, guid: d9176e31717bb3c48a0e27523c41316d,
       type: 3}
-    numFinishSanGoLow: 90
-    numFinishSanGoHigh: 104
-    numFinishVoTauLow: 184
-    numFinishVoTauHigh: 209
-    numFinishSanTau: 224
+    numFinishSanGoLow: 2
+    numFinishSanGoHigh: 3
+    numFinishVoTauLow: 5
+    numFinishVoTauHigh: 6
+    numFinishSanTau: 8
     typeUnlock: 1
   - idship: 2
-    ShipModel: {fileID: 845397416462086420, guid: b5932f0f721e9644eb2f619a6206b39b,
+    ShipModel: {fileID: 7188283186245256987, guid: d9176e31717bb3c48a0e27523c41316d,
       type: 3}
-    numFinishSanGoLow: 72
-    numFinishSanGoHigh: 89
-    numFinishVoTauLow: 179
-    numFinishVoTauHigh: 216
-    numFinishSanTau: 231
+    numFinishSanGoLow: 2
+    numFinishSanGoHigh: 3
+    numFinishVoTauLow: 5
+    numFinishVoTauHigh: 6
+    numFinishSanTau: 8
     typeUnlock: 1
